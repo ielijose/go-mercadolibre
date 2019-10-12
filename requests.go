@@ -1,4 +1,4 @@
-package gomeli
+package mercadolibre
 
 import (
 	"net/http"

@@ -1,4 +1,4 @@
-package gomeli
+package mercadolibre
 
 type authRequest struct {
 	GrantType    string `json:"grant_type"  url:"grant_type"`

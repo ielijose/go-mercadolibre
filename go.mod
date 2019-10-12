@@ -1,4 +1,4 @@
-module github.com/ielijose/gomeli
+module github.com/ielijose/go-mercadolibre
 
 go 1.12
 

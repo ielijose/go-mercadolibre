@@ -1,13 +1,13 @@
-GoMeli
+Go MercadoLibre
 ========
 
 Unofficial GO Client for MercadoLibre Platform.
 
-[![GoDoc](https://godoc.org/github.com/ielijose/gomeli?status.png)](https://godoc.org/github.com/ielijose/gomeli)
+[![GoDoc](https://godoc.org/github.com/ielijose/go-mercadolibre?status.png)](https://godoc.org/github.com/ielijose/go-mercadolibre)
 
 ## How to install ##
 ```go
-go get github.com/ielijose/gomeli
+go get github.com/ielijose/go-mercadolibre
 ```
 
 ## License ##
